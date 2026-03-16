@@ -1,5 +1,10 @@
+//Lab1 ex 4-a)
 #include <stdio.h>
 #include <stdlib.h>
+
+float foo (float pf) {
+  return pf+1;
+}
 
 int main (int argc, char **argv) {
   float f;

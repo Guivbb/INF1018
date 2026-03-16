@@ -1,3 +1,4 @@
+//Lab1 exercicio 4-b)
 #include <stdio.h>
 #include <stdlib.h>
 
